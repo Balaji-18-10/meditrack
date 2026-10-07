@@ -1,0 +1,6 @@
+{
+  "name": "MediTrack – Healthcare Management System",
+  "description": "Full-stack healthcare management system featuring patient and doctor records, appointment scheduling with conflict detection, digital prescription management with printable Rx slips, and BMI health metrics studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
